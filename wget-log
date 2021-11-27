@@ -1,0 +1,18 @@
+--2021-11-24 15:44:18--  https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.shchmod
+Resolving repo.anaconda.com (repo.anaconda.com)... 104.16.130.3, 104.16.131.3, 2606:4700::6810:8203, ...
+Connecting to repo.anaconda.com (repo.anaconda.com)|104.16.130.3|:443... connected.
+HTTP request sent, awaiting response... 404 Not Found
+2021-11-24 15:44:18 ERROR 404: Not Found.
+
+--2021-11-24 15:44:18--  http://+x/
+Resolving +x (+x)... failed: Name or service not known.
+wget: unable to resolve host address ‘+x’
+--2021-11-24 15:44:18--  http://miniconda3-latest-linux-x86_64.shsh/
+Resolving miniconda3-latest-linux-x86_64.shsh (miniconda3-latest-linux-x86_64.shsh)... failed: Name or service not known.
+wget: unable to resolve host address ‘miniconda3-latest-linux-x86_64.shsh’
+--2021-11-24 15:44:19--  http://miniconda3-latest-linux-x86_64.shrm/
+Resolving miniconda3-latest-linux-x86_64.shrm (miniconda3-latest-linux-x86_64.shrm)... failed: Name or service not known.
+wget: unable to resolve host address ‘miniconda3-latest-linux-x86_64.shrm’
+--2021-11-24 15:44:19--  http://miniconda3-latest-linux-x86_64.sh/
+Resolving miniconda3-latest-linux-x86_64.sh (miniconda3-latest-linux-x86_64.sh)... failed: Name or service not known.
+wget: unable to resolve host address ‘miniconda3-latest-linux-x86_64.sh’

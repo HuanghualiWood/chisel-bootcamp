@@ -1,0 +1,566 @@
+[I 15:37:17.652 NotebookApp] JupyterLab extension loaded from /home/qiminhao/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 15:37:17.653 NotebookApp] JupyterLab application directory is /home/qiminhao/anaconda3/share/jupyter/lab
+[I 15:37:17.655 NotebookApp] Serving notebooks from local directory: /mnt/i/Ubuntu20.04/chisel-bootcamp
+[I 15:37:17.656 NotebookApp] The Jupyter Notebook is running at:
+[I 15:37:17.656 NotebookApp] http://localhost:8888/?token=f55f036f391cea08f8126fd9e8755bfad439dcb0ad772a87
+[I 15:37:17.657 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 15:37:17.733 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=f55f036f391cea08f8126fd9e8755bfad439dcb0ad772a87
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+[I 15:37:18.709 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[W 15:37:19.319 NotebookApp] Notebook 1_intro_to_scala.ipynb is not trusted
+[I 15:37:20.048 NotebookApp] 302 GET /notebooks/images/chisel_1024.png (127.0.0.1) 8.30ms
+[I 15:37:20.061 NotebookApp] 302 GET /notebooks/images/playbutton.png (127.0.0.1) 12.67ms
+[I 15:37:21.756 NotebookApp] Kernel started: 6b031185-4135-4233-9aee-7f97c4cca9f8
+[I 15:37:22.089 NotebookApp] Adapting to protocol v5.1 for kernel 6b031185-4135-4233-9aee-7f97c4cca9f8
+[W 15:37:34.538 NotebookApp] 404 GET /api/kernels/3f6a53de-ad44-45e5-93ff-6a4d3aa93f06/channels?session_id=12bfb513bccb455fbdf7779d77f883a6 (127.0.0.1): Kernel does not exist: 3f6a53de-ad44-45e5-93ff-6a4d3aa93f06
+[W 15:37:34.543 NotebookApp] 404 GET /api/kernels/3f6a53de-ad44-45e5-93ff-6a4d3aa93f06/channels?session_id=12bfb513bccb455fbdf7779d77f883a6 (127.0.0.1) 5.94ms referer=None
+[I 15:39:20.047 NotebookApp] Saving file at /1_intro_to_scala.ipynb
+[I 15:41:20.100 NotebookApp] Saving file at /1_intro_to_scala.ipynb
+[I 15:43:20.089 NotebookApp] Saving file at /1_intro_to_scala.ipynb
+[I 15:44:08.817 NotebookApp] Kernel started: 591dbd91-0b26-411c-9c02-2547932b3d4d
+[I 15:44:08.835 NotebookApp] 302 GET /notebooks/images/chisel_1024.png (127.0.0.1) 11.01ms
+[I 15:44:08.846 NotebookApp] 302 GET /notebooks/images/demo_fir_filter.svg (127.0.0.1) 9.76ms
+[I 15:44:09.231 NotebookApp] Adapting to protocol v5.1 for kernel 591dbd91-0b26-411c-9c02-2547932b3d4d
+[I 15:45:04.668 NotebookApp] Saving file at /0_demo.ipynb
+[I 15:45:04.735 NotebookApp] Starting buffering for 591dbd91-0b26-411c-9c02-2547932b3d4d:047f13a9c5d14f4daf5eca2a7c3afbd3
+[I 15:55:56.582 NotebookApp] 302 GET /notebooks/images/chisel_1024.png (127.0.0.1) 5.67ms
+[I 15:55:56.590 NotebookApp] 302 GET /notebooks/images/playbutton.png (127.0.0.1) 7.72ms
+[I 15:55:56.984 NotebookApp] Adapting to protocol v5.1 for kernel 6b031185-4135-4233-9aee-7f97c4cca9f8
+[I 15:57:57.239 NotebookApp] Saving file at /1_intro_to_scala.ipynb
+[I 16:04:25.527 NotebookApp] Starting buffering for 6b031185-4135-4233-9aee-7f97c4cca9f8:2be3856fb958482f8cff9c9b93b98cb0
+[I 16:04:26.597 NotebookApp] 302 GET /notebooks/images/chisel_1024.png (127.0.0.1) 9.20ms
+[I 16:04:26.608 NotebookApp] 302 GET /notebooks/images/playbutton.png (127.0.0.1) 9.20ms
+[I 16:04:26.929 NotebookApp] Adapting to protocol v5.1 for kernel 6b031185-4135-4233-9aee-7f97c4cca9f8
+[I 16:04:34.921 NotebookApp] Starting buffering for 6b031185-4135-4233-9aee-7f97c4cca9f8:b9f3b651f1854c00aa6816435c40e658
+[I 16:04:35.126 NotebookApp] Kernel shutdown: 6b031185-4135-4233-9aee-7f97c4cca9f8
+[I 16:04:35.139 NotebookApp] Kernel started: 34a31563-847f-446b-88ed-db036882d17a
+Warning: JAVA_HOME environment variable is not set.
+[I 16:05:16.408 NotebookApp] Kernel restarted: 34a31563-847f-446b-88ed-db036882d17a
+Warning: JAVA_HOME environment variable is not set.
+[I 16:05:22.035 NotebookApp] Saving file at /1_intro_to_scala.ipynb
+[I 16:05:22.445 NotebookApp] 302 GET /notebooks/images/chisel_1024.png (127.0.0.1) 5.88ms
+[I 16:05:22.505 NotebookApp] 302 GET /notebooks/images/playbutton.png (127.0.0.1) 7.97ms
+[I 16:05:32.439 NotebookApp] Kernel shutdown: 591dbd91-0b26-411c-9c02-2547932b3d4d
+[W 16:05:35.461 NotebookApp] Timeout waiting for kernel_info reply from 34a31563-847f-446b-88ed-db036882d17a
+[W 16:05:35.530 NotebookApp] zmq message arrived on closed channel
+Exception in thread "main" java.lang.NullPointerException
+	at ammonite.interpreter.Classes$.defaultClassPath(Classes.scala:105)
+	at ammonite.interpreter.Classes$.fromClasspath(Classes.scala:145)
+	at jupyter.scala.ScalaInterpreter$.classPathOrIvy(ScalaInterpreter.scala:86)
+	at jupyter.scala.ScalaInterpreter$.x$5$lzycompute(ScalaInterpreter.scala:100)
+	at jupyter.scala.ScalaInterpreter$.x$5(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.startJars$lzycompute(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.startJars(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.apply$default$1(ScalaInterpreter.scala:109)
+	at jupyter.scala.JupyterScala$$anon$1$$anonfun$apply$1$$anonfun$apply$2.apply(JupyterScala.scala:64)
+	at jupyter.scala.JupyterScala$$anon$1$$anonfun$apply$1$$anonfun$apply$2.apply(JupyterScala.scala:64)
+	at jupyter.scala.ScalaInterpreter$.underlying$lzycompute$1(ScalaInterpreter.scala:132)
+	at jupyter.scala.ScalaInterpreter$.jupyter$scala$ScalaInterpreter$$underlying$1(ScalaInterpreter.scala:127)
+	at jupyter.scala.ScalaInterpreter$$anon$1.init(ScalaInterpreter.scala:162)
+	at jupyter.kernel.interpreter.InterpreterHandler$$anonfun$apply$8$$anonfun$apply$9.apply(InterpreterHandler.scala:227)
+	at jupyter.kernel.interpreter.InterpreterHandler$$anonfun$apply$8$$anonfun$apply$9.apply(InterpreterHandler.scala:227)
+	at scalaz.stream.Process$$anonfun$append$1.apply(Process.scala:55)
+	at scalaz.stream.Process$$anonfun$append$1.apply(Process.scala:54)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3$$anonfun$apply$4.apply(Process.scala:106)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3$$anonfun$apply$4.apply(Process.scala:106)
+	at scalaz.stream.Util$.Try(Util.scala:42)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3.apply(Process.scala:106)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3.apply(Process.scala:106)
+	at scalaz.Trampoline$$anonfun$delay$1.apply(Free.scala:234)
+	at scalaz.Trampoline$$anonfun$delay$1.apply(Free.scala:234)
+	at scalaz.std.FunctionInstances$$anon$1$$anonfun$map$1.apply(Function.scala:56)
+	at scalaz.Free$$anonfun$run$1.apply(Free.scala:172)
+	at scalaz.Free$$anonfun$run$1.apply(Free.scala:172)
+	at scalaz.Free.go2$1(Free.scala:119)
+	at scalaz.Free.go(Free.scala:122)
+	at scalaz.Free.run(Free.scala:172)
+	at scalaz.stream.Process$$anonfun$go$1$1.apply(Process.scala:75)
+	at scalaz.stream.Process$$anonfun$go$1$1.apply(Process.scala:75)
+	at scalaz.stream.Util$.Try(Util.scala:42)
+	at scalaz.stream.Process$class.go$1(Process.scala:75)
+	at scalaz.stream.Process$class.step(Process.scala:88)
+	at scalaz.stream.Process$Append.step(Process.scala:611)
+	at scalaz.stream.Process$class.go$3(Process.scala:464)
+	at scalaz.stream.Process$$anonfun$go$3$3.apply(Process.scala:473)
+	at scalaz.stream.Process$$anonfun$go$3$3.apply(Process.scala:472)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1$$anonfun$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1$$anonfun$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$.Try(Task.scala:379)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1.apply(Task.scala:34)
+	at scalaz.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:59)
+	at scalaz.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:59)
+	at scalaz.concurrent.Future.step(Future.scala:111)
+	at scalaz.concurrent.Future.listen(Future.scala:76)
+	at scalaz.concurrent.Future$$anonfun$listen$1$$anonfun$apply$4.apply(Future.scala:80)
+	at scalaz.concurrent.Future$$anonfun$listen$1$$anonfun$apply$4.apply(Future.scala:80)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free.resume(Free.scala:73)
+	at scalaz.Free.go2$1(Free.scala:118)
+	at scalaz.Free.go(Free.scala:122)
+	at scalaz.Free.run(Free.scala:172)
+	at scalaz.concurrent.Future$$anonfun$async$1$$anonfun$apply$14.apply(Future.scala:363)
+	at scalaz.concurrent.Future$$anonfun$async$1$$anonfun$apply$14.apply(Future.scala:363)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply$mcV$sp(Queue.scala:194)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply(Queue.scala:194)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply(Queue.scala:194)
+	at scalaz.concurrent.StrategysLow$$anon$3$$anon$4.call(Strategy.scala:70)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[I 16:05:56.809 NotebookApp] Starting buffering for 34a31563-847f-446b-88ed-db036882d17a:601a874640f44f3c820feb6c52bf1b8e
+[I 16:06:01.842 NotebookApp] Kernel restarted: 34a31563-847f-446b-88ed-db036882d17a
+Warning: JAVA_HOME environment variable is not set.
+[W 16:06:03.173 NotebookApp] zmq message arrived on closed channel
+[W 16:06:16.413 NotebookApp] Timeout waiting for kernel_info_reply: 34a31563-847f-446b-88ed-db036882d17a
+[E 16:06:16.414 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/qiminhao/anaconda3/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 85, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/home/qiminhao/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 1133, in run
+        value = future.result()
+    tornado.util.TimeoutError: Timeout waiting for restart
+[E 16:06:16.416 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "0",
+      "Sec-Ch-Ua": "\"Google Chrome\";v=\"95\", \"Chromium\";v=\"95\", \";Not A Brand\";v=\"99\"",
+      "Dnt": "1",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|9081e3f7|5995815cb5ef0afd5286dc9442ee3d76|1636175523",
+      "Sec-Ch-Ua-Platform": "\"Windows\"",
+      "Origin": "http://localhost:8888",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Dest": "empty",
+      "Referer": "http://localhost:8888/notebooks/1_intro_to_scala.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7",
+      "Cookie": "_xsrf=2|9081e3f7|5995815cb5ef0afd5286dc9442ee3d76|1636175523; Hm_lvt_eaa57ca47dacb4ad4f5a257001a3457c=1636175524; username-localhost-8888=\"2|1:0|10:1637826304|23:username-localhost-8888|44:ODIzNmI5NTE3NDFiNDA0ZmIxOTg0OTRmY2NkMzBjM2Y=|7157ee0c2c1c37d89bd5a805b9bbb30ba2c19da777c473013d0fa2b2c391890a\""
+    }
+[E 16:06:16.417 NotebookApp] 500 POST /api/kernels/34a31563-847f-446b-88ed-db036882d17a/restart (127.0.0.1) 65025.94ms referer=http://localhost:8888/notebooks/1_intro_to_scala.ipynb
+[W 16:07:01.846 NotebookApp] Timeout waiting for kernel_info_reply: 34a31563-847f-446b-88ed-db036882d17a
+[E 16:07:01.847 NotebookApp] Exception restarting kernel
+    Traceback (most recent call last):
+      File "/home/qiminhao/anaconda3/lib/python3.7/site-packages/notebook/services/kernels/handlers.py", line 85, in post
+        yield gen.maybe_future(km.restart_kernel(kernel_id))
+      File "/home/qiminhao/anaconda3/lib/python3.7/site-packages/tornado/gen.py", line 1133, in run
+        value = future.result()
+    tornado.util.TimeoutError: Timeout waiting for restart
+[E 16:07:01.848 NotebookApp] {
+      "Host": "localhost:8888",
+      "Connection": "keep-alive",
+      "Content-Length": "0",
+      "Sec-Ch-Ua": "\"Google Chrome\";v=\"95\", \"Chromium\";v=\"95\", \";Not A Brand\";v=\"99\"",
+      "Dnt": "1",
+      "Sec-Ch-Ua-Mobile": "?0",
+      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+      "Accept": "application/json, text/javascript, */*; q=0.01",
+      "X-Requested-With": "XMLHttpRequest",
+      "X-Xsrftoken": "2|9081e3f7|5995815cb5ef0afd5286dc9442ee3d76|1636175523",
+      "Sec-Ch-Ua-Platform": "\"Windows\"",
+      "Origin": "http://localhost:8888",
+      "Sec-Fetch-Site": "same-origin",
+      "Sec-Fetch-Mode": "cors",
+      "Sec-Fetch-Dest": "empty",
+      "Referer": "http://localhost:8888/notebooks/1_intro_to_scala.ipynb",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7",
+      "Cookie": "_xsrf=2|9081e3f7|5995815cb5ef0afd5286dc9442ee3d76|1636175523; Hm_lvt_eaa57ca47dacb4ad4f5a257001a3457c=1636175524; username-localhost-8888=\"2|1:0|10:1637826304|23:username-localhost-8888|44:ODIzNmI5NTE3NDFiNDA0ZmIxOTg0OTRmY2NkMzBjM2Y=|7157ee0c2c1c37d89bd5a805b9bbb30ba2c19da777c473013d0fa2b2c391890a\""
+    }
+[E 16:07:01.848 NotebookApp] 500 POST /api/kernels/34a31563-847f-446b-88ed-db036882d17a/restart (127.0.0.1) 65036.30ms referer=http://localhost:8888/notebooks/1_intro_to_scala.ipynb
+[I 16:07:01.862 NotebookApp] Discarding 1 buffered messages for 34a31563-847f-446b-88ed-db036882d17a:601a874640f44f3c820feb6c52bf1b8e
+[I 16:07:06.880 NotebookApp] Kernel shutdown: 34a31563-847f-446b-88ed-db036882d17a
+[I 16:07:06.899 NotebookApp] Kernel started: 13babd85-40f4-45bf-966a-40448b02902b
+Warning: JAVA_HOME environment variable is not set.
+[I 16:07:23.139 NotebookApp] Saving file at /1_intro_to_scala.ipynb
+[I 16:07:51.566 NotebookApp] Kernel shutdown: 13babd85-40f4-45bf-966a-40448b02902b
+[W 16:07:51.574 NotebookApp] 404 DELETE /api/sessions/201f1799-1d15-4775-bb97-416dc1894303 (127.0.0.1): Session not found: session_id='201f1799-1d15-4775-bb97-416dc1894303'
+[W 16:07:51.574 NotebookApp] Session not found: session_id='201f1799-1d15-4775-bb97-416dc1894303'
+[W 16:07:51.575 NotebookApp] 404 DELETE /api/sessions/201f1799-1d15-4775-bb97-416dc1894303 (127.0.0.1) 1.73ms referer=http://localhost:8888/tree
+[I 16:08:00.910 NotebookApp] Kernel started: cb7670cc-cfc9-443e-92e4-991d9fec3aff
+[I 16:08:00.931 NotebookApp] 302 GET /notebooks/images/chisel_1024.png (127.0.0.1) 9.49ms
+[I 16:08:00.945 NotebookApp] 302 GET /notebooks/images/playbutton.png (127.0.0.1) 12.91ms
+Warning: JAVA_HOME environment variable is not set.
+[W 16:08:07.224 NotebookApp] Timeout waiting for kernel_info reply from 13babd85-40f4-45bf-966a-40448b02902b
+[E 16:08:07.225 NotebookApp] Error opening stream: HTTP 404: Not Found (Kernel does not exist: 13babd85-40f4-45bf-966a-40448b02902b)
+[W 16:09:01.358 NotebookApp] Timeout waiting for kernel_info reply from cb7670cc-cfc9-443e-92e4-991d9fec3aff
+Exception in thread "main" java.lang.NullPointerException
+	at ammonite.interpreter.Classes$.defaultClassPath(Classes.scala:105)
+	at ammonite.interpreter.Classes$.fromClasspath(Classes.scala:145)
+	at jupyter.scala.ScalaInterpreter$.classPathOrIvy(ScalaInterpreter.scala:86)
+	at jupyter.scala.ScalaInterpreter$.x$5$lzycompute(ScalaInterpreter.scala:100)
+	at jupyter.scala.ScalaInterpreter$.x$5(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.startJars$lzycompute(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.startJars(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.apply$default$1(ScalaInterpreter.scala:109)
+	at jupyter.scala.JupyterScala$$anon$1$$anonfun$apply$1$$anonfun$apply$2.apply(JupyterScala.scala:64)
+	at jupyter.scala.JupyterScala$$anon$1$$anonfun$apply$1$$anonfun$apply$2.apply(JupyterScala.scala:64)
+	at jupyter.scala.ScalaInterpreter$.underlying$lzycompute$1(ScalaInterpreter.scala:132)
+	at jupyter.scala.ScalaInterpreter$.jupyter$scala$ScalaInterpreter$$underlying$1(ScalaInterpreter.scala:127)
+	at jupyter.scala.ScalaInterpreter$$anon$1.init(ScalaInterpreter.scala:162)
+	at jupyter.kernel.interpreter.InterpreterHandler$$anonfun$apply$8$$anonfun$apply$9.apply(InterpreterHandler.scala:227)
+	at jupyter.kernel.interpreter.InterpreterHandler$$anonfun$apply$8$$anonfun$apply$9.apply(InterpreterHandler.scala:227)
+	at scalaz.stream.Process$$anonfun$append$1.apply(Process.scala:55)
+	at scalaz.stream.Process$$anonfun$append$1.apply(Process.scala:54)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3$$anonfun$apply$4.apply(Process.scala:106)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3$$anonfun$apply$4.apply(Process.scala:106)
+	at scalaz.stream.Util$.Try(Util.scala:42)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3.apply(Process.scala:106)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3.apply(Process.scala:106)
+	at scalaz.Trampoline$$anonfun$delay$1.apply(Free.scala:234)
+	at scalaz.Trampoline$$anonfun$delay$1.apply(Free.scala:234)
+	at scalaz.std.FunctionInstances$$anon$1$$anonfun$map$1.apply(Function.scala:56)
+	at scalaz.Free$$anonfun$run$1.apply(Free.scala:172)
+	at scalaz.Free$$anonfun$run$1.apply(Free.scala:172)
+	at scalaz.Free.go2$1(Free.scala:119)
+	at scalaz.Free.go(Free.scala:122)
+	at scalaz.Free.run(Free.scala:172)
+	at scalaz.stream.Process$$anonfun$go$1$1.apply(Process.scala:75)
+	at scalaz.stream.Process$$anonfun$go$1$1.apply(Process.scala:75)
+	at scalaz.stream.Util$.Try(Util.scala:42)
+	at scalaz.stream.Process$class.go$1(Process.scala:75)
+	at scalaz.stream.Process$class.step(Process.scala:88)
+	at scalaz.stream.Process$Append.step(Process.scala:611)
+	at scalaz.stream.Process$class.go$3(Process.scala:464)
+	at scalaz.stream.Process$$anonfun$go$3$3.apply(Process.scala:473)
+	at scalaz.stream.Process$$anonfun$go$3$3.apply(Process.scala:472)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1$$anonfun$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1$$anonfun$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$.Try(Task.scala:379)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1.apply(Task.scala:34)
+	at scalaz.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:59)
+	at scalaz.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:59)
+	at scalaz.concurrent.Future.step(Future.scala:111)
+	at scalaz.concurrent.Future.listen(Future.scala:76)
+	at scalaz.concurrent.Future$$anonfun$listen$1$$anonfun$apply$4.apply(Future.scala:80)
+	at scalaz.concurrent.Future$$anonfun$listen$1$$anonfun$apply$4.apply(Future.scala:80)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free.resume(Free.scala:73)
+	at scalaz.Free.go2$1(Free.scala:118)
+	at scalaz.Free.go(Free.scala:122)
+	at scalaz.Free.run(Free.scala:172)
+	at scalaz.concurrent.Future$$anonfun$async$1$$anonfun$apply$14.apply(Future.scala:363)
+	at scalaz.concurrent.Future$$anonfun$async$1$$anonfun$apply$14.apply(Future.scala:363)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply$mcV$sp(Queue.scala:194)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply(Queue.scala:194)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply(Queue.scala:194)
+	at scalaz.concurrent.StrategysLow$$anon$3$$anon$4.call(Strategy.scala:70)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[I 16:09:42.149 NotebookApp] Saving file at /1_intro_to_scala.ipynb
+[I 16:09:49.225 NotebookApp] Starting buffering for cb7670cc-cfc9-443e-92e4-991d9fec3aff:a5c1b84f128344ab82f5443b173e6c06
+[W 16:09:52.575 NotebookApp] Forbidden
+[W 16:09:52.576 NotebookApp] 403 GET /api/sessions?_=1637827671756 (127.0.0.1) 1.47ms referer=http://localhost:8888/tree
+[W 16:09:52.578 NotebookApp] Forbidden
+[W 16:09:52.579 NotebookApp] 403 GET /api/terminals?_=1637827671757 (127.0.0.1) 0.80ms referer=http://localhost:8888/tree
+[I 16:10:45.037 NotebookApp] The port 8888 is already in use, trying another port.
+[I 16:10:45.059 NotebookApp] JupyterLab extension loaded from /home/qiminhao/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 16:10:45.059 NotebookApp] JupyterLab application directory is /home/qiminhao/anaconda3/share/jupyter/lab
+[I 16:10:45.062 NotebookApp] Serving notebooks from local directory: /mnt/i/Ubuntu20.04/chisel-bootcamp
+[I 16:10:45.062 NotebookApp] The Jupyter Notebook is running at:
+[I 16:10:45.062 NotebookApp] http://localhost:8889/?token=e871c143347f9aa386163b7a86b91df9896354225eb7e4d4
+[I 16:10:45.062 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:10:45.111 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=e871c143347f9aa386163b7a86b91df9896354225eb7e4d4
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+[I 16:10:46.165 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 16:10:50.565 NotebookApp] Kernel started: 2aaf1a96-312e-4830-860c-d9c2d3c6ad93
+[I 16:10:50.589 NotebookApp] 302 GET /notebooks/images/chisel_1024.png (127.0.0.1) 12.35ms
+Warning: JAVA_HOME environment variable is not set.
+[I 16:10:50.599 NotebookApp] 302 GET /notebooks/images/playbutton.png (127.0.0.1) 9.23ms
+[W 16:11:50.966 NotebookApp] Timeout waiting for kernel_info reply from 2aaf1a96-312e-4830-860c-d9c2d3c6ad93
+Exception in thread "main" java.lang.NullPointerException
+	at ammonite.interpreter.Classes$.defaultClassPath(Classes.scala:105)
+	at ammonite.interpreter.Classes$.fromClasspath(Classes.scala:145)
+	at jupyter.scala.ScalaInterpreter$.classPathOrIvy(ScalaInterpreter.scala:86)
+	at jupyter.scala.ScalaInterpreter$.x$5$lzycompute(ScalaInterpreter.scala:100)
+	at jupyter.scala.ScalaInterpreter$.x$5(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.startJars$lzycompute(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.startJars(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.apply$default$1(ScalaInterpreter.scala:109)
+	at jupyter.scala.JupyterScala$$anon$1$$anonfun$apply$1$$anonfun$apply$2.apply(JupyterScala.scala:64)
+	at jupyter.scala.JupyterScala$$anon$1$$anonfun$apply$1$$anonfun$apply$2.apply(JupyterScala.scala:64)
+	at jupyter.scala.ScalaInterpreter$.underlying$lzycompute$1(ScalaInterpreter.scala:132)
+	at jupyter.scala.ScalaInterpreter$.jupyter$scala$ScalaInterpreter$$underlying$1(ScalaInterpreter.scala:127)
+	at jupyter.scala.ScalaInterpreter$$anon$1.init(ScalaInterpreter.scala:162)
+	at jupyter.kernel.interpreter.InterpreterHandler$$anonfun$apply$8$$anonfun$apply$9.apply(InterpreterHandler.scala:227)
+	at jupyter.kernel.interpreter.InterpreterHandler$$anonfun$apply$8$$anonfun$apply$9.apply(InterpreterHandler.scala:227)
+	at scalaz.stream.Process$$anonfun$append$1.apply(Process.scala:55)
+	at scalaz.stream.Process$$anonfun$append$1.apply(Process.scala:54)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3$$anonfun$apply$4.apply(Process.scala:106)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3$$anonfun$apply$4.apply(Process.scala:106)
+	at scalaz.stream.Util$.Try(Util.scala:42)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3.apply(Process.scala:106)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3.apply(Process.scala:106)
+	at scalaz.Trampoline$$anonfun$delay$1.apply(Free.scala:234)
+	at scalaz.Trampoline$$anonfun$delay$1.apply(Free.scala:234)
+	at scalaz.std.FunctionInstances$$anon$1$$anonfun$map$1.apply(Function.scala:56)
+	at scalaz.Free$$anonfun$run$1.apply(Free.scala:172)
+	at scalaz.Free$$anonfun$run$1.apply(Free.scala:172)
+	at scalaz.Free.go2$1(Free.scala:119)
+	at scalaz.Free.go(Free.scala:122)
+	at scalaz.Free.run(Free.scala:172)
+	at scalaz.stream.Process$$anonfun$go$1$1.apply(Process.scala:75)
+	at scalaz.stream.Process$$anonfun$go$1$1.apply(Process.scala:75)
+	at scalaz.stream.Util$.Try(Util.scala:42)
+	at scalaz.stream.Process$class.go$1(Process.scala:75)
+	at scalaz.stream.Process$class.step(Process.scala:88)
+	at scalaz.stream.Process$Append.step(Process.scala:611)
+	at scalaz.stream.Process$class.go$3(Process.scala:464)
+	at scalaz.stream.Process$$anonfun$go$3$3.apply(Process.scala:473)
+	at scalaz.stream.Process$$anonfun$go$3$3.apply(Process.scala:472)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1$$anonfun$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1$$anonfun$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$.Try(Task.scala:379)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1.apply(Task.scala:34)
+	at scalaz.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:59)
+	at scalaz.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:59)
+	at scalaz.concurrent.Future.step(Future.scala:111)
+	at scalaz.concurrent.Future.listen(Future.scala:76)
+	at scalaz.concurrent.Future$$anonfun$listen$1$$anonfun$apply$4.apply(Future.scala:80)
+	at scalaz.concurrent.Future$$anonfun$listen$1$$anonfun$apply$4.apply(Future.scala:80)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free.resume(Free.scala:73)
+	at scalaz.Free.go2$1(Free.scala:118)
+	at scalaz.Free.go(Free.scala:122)
+	at scalaz.Free.run(Free.scala:172)
+	at scalaz.concurrent.Future$$anonfun$async$1$$anonfun$apply$14.apply(Future.scala:363)
+	at scalaz.concurrent.Future$$anonfun$async$1$$anonfun$apply$14.apply(Future.scala:363)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply$mcV$sp(Queue.scala:194)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply(Queue.scala:194)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply(Queue.scala:194)
+	at scalaz.concurrent.StrategysLow$$anon$3$$anon$4.call(Strategy.scala:70)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[I 16:14:14.291 NotebookApp] Interrupted...
+[I 16:14:14.291 NotebookApp] Shutting down 1 kernel
+Traceback (most recent call last):
+  File "/home/qiminhao/anaconda3/bin/jupyter-notebook", line 11, in <module>
+    sys.exit(main())
+  File "/home/qiminhao/anaconda3/lib/python3.7/site-packages/jupyter_core/application.py", line 266, in launch_instance
+    return super(JupyterApp, cls).launch_instance(argv=argv, **kwargs)
+  File "/home/qiminhao/anaconda3/lib/python3.7/site-packages/traitlets/config/application.py", line 658, in launch_instance
+    app.start()
+  File "/home/qiminhao/anaconda3/lib/python3.7/site-packages/notebook/notebookapp.py", line 1741, in start
+    self.cleanup_kernels()
+  File "/home/qiminhao/anaconda3/lib/python3.7/site-packages/notebook/notebookapp.py", line 1618, in cleanup_kernels
+    self.kernel_manager.shutdown_all()
+  File "/home/qiminhao/anaconda3/lib/python3.7/site-packages/jupyter_client/multikernelmanager.py", line 160, in shutdown_all
+    self.finish_shutdown(kid)
+  File "/home/qiminhao/anaconda3/lib/python3.7/site-packages/jupyter_client/multikernelmanager.py", line 33, in wrapped
+    r = method(*args, **kwargs)
+  File "/home/qiminhao/anaconda3/lib/python3.7/site-packages/jupyter_client/manager.py", line 282, in finish_shutdown
+    time.sleep(pollinterval)
+KeyboardInterrupt
+[I 16:25:29.279 NotebookApp] The port 8888 is already in use, trying another port.
+[I 16:25:29.298 NotebookApp] JupyterLab extension loaded from /home/qiminhao/anaconda3/lib/python3.7/site-packages/jupyterlab
+[I 16:25:29.299 NotebookApp] JupyterLab application directory is /home/qiminhao/anaconda3/share/jupyter/lab
+[I 16:25:29.301 NotebookApp] Serving notebooks from local directory: /mnt/i/Ubuntu20.04/chisel-bootcamp
+[I 16:25:29.302 NotebookApp] The Jupyter Notebook is running at:
+[I 16:25:29.302 NotebookApp] http://localhost:8889/?token=c90cb90a5740ced77505f5fed6e0257409754bd12ea35c6b
+[I 16:25:29.302 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 16:25:29.376 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8889/?token=c90cb90a5740ced77505f5fed6e0257409754bd12ea35c6b
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+read failed 9: Bad file descriptor
+[I 16:25:30.426 NotebookApp] Accepting one-time-token-authenticated connection from 127.0.0.1
+[I 16:25:31.765 NotebookApp] 302 GET /notebooks/images/chisel_1024.png (127.0.0.1) 7.49ms
+[I 16:25:31.776 NotebookApp] 302 GET /notebooks/images/playbutton.png (127.0.0.1) 10.49ms
+[I 16:25:31.817 NotebookApp] Kernel started: a847990e-db62-4652-a1d8-4947d27a7342
+Warning: JAVA_HOME environment variable is not set.
+[W 16:26:32.263 NotebookApp] Timeout waiting for kernel_info reply from a847990e-db62-4652-a1d8-4947d27a7342
+Exception in thread "main" java.lang.NullPointerException
+	at ammonite.interpreter.Classes$.defaultClassPath(Classes.scala:105)
+	at ammonite.interpreter.Classes$.fromClasspath(Classes.scala:145)
+	at jupyter.scala.ScalaInterpreter$.classPathOrIvy(ScalaInterpreter.scala:86)
+	at jupyter.scala.ScalaInterpreter$.x$5$lzycompute(ScalaInterpreter.scala:100)
+	at jupyter.scala.ScalaInterpreter$.x$5(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.startJars$lzycompute(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.startJars(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.apply$default$1(ScalaInterpreter.scala:109)
+	at jupyter.scala.JupyterScala$$anon$1$$anonfun$apply$1$$anonfun$apply$2.apply(JupyterScala.scala:64)
+	at jupyter.scala.JupyterScala$$anon$1$$anonfun$apply$1$$anonfun$apply$2.apply(JupyterScala.scala:64)
+	at jupyter.scala.ScalaInterpreter$.underlying$lzycompute$1(ScalaInterpreter.scala:132)
+	at jupyter.scala.ScalaInterpreter$.jupyter$scala$ScalaInterpreter$$underlying$1(ScalaInterpreter.scala:127)
+	at jupyter.scala.ScalaInterpreter$$anon$1.init(ScalaInterpreter.scala:162)
+	at jupyter.kernel.interpreter.InterpreterHandler$$anonfun$apply$8$$anonfun$apply$9.apply(InterpreterHandler.scala:227)
+	at jupyter.kernel.interpreter.InterpreterHandler$$anonfun$apply$8$$anonfun$apply$9.apply(InterpreterHandler.scala:227)
+	at scalaz.stream.Process$$anonfun$append$1.apply(Process.scala:55)
+	at scalaz.stream.Process$$anonfun$append$1.apply(Process.scala:54)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3$$anonfun$apply$4.apply(Process.scala:106)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3$$anonfun$apply$4.apply(Process.scala:106)
+	at scalaz.stream.Util$.Try(Util.scala:42)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3.apply(Process.scala:106)
+	at scalaz.stream.Process$$anonfun$1$$anonfun$apply$3.apply(Process.scala:106)
+	at scalaz.Trampoline$$anonfun$delay$1.apply(Free.scala:234)
+	at scalaz.Trampoline$$anonfun$delay$1.apply(Free.scala:234)
+	at scalaz.std.FunctionInstances$$anon$1$$anonfun$map$1.apply(Function.scala:56)
+	at scalaz.Free$$anonfun$run$1.apply(Free.scala:172)
+	at scalaz.Free$$anonfun$run$1.apply(Free.scala:172)
+	at scalaz.Free.go2$1(Free.scala:119)
+	at scalaz.Free.go(Free.scala:122)
+	at scalaz.Free.run(Free.scala:172)
+	at scalaz.stream.Process$$anonfun$go$1$1.apply(Process.scala:75)
+	at scalaz.stream.Process$$anonfun$go$1$1.apply(Process.scala:75)
+	at scalaz.stream.Util$.Try(Util.scala:42)
+	at scalaz.stream.Process$class.go$1(Process.scala:75)
+	at scalaz.stream.Process$class.step(Process.scala:88)
+	at scalaz.stream.Process$Append.step(Process.scala:611)
+	at scalaz.stream.Process$class.go$3(Process.scala:464)
+	at scalaz.stream.Process$$anonfun$go$3$3.apply(Process.scala:473)
+	at scalaz.stream.Process$$anonfun$go$3$3.apply(Process.scala:472)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1$$anonfun$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1$$anonfun$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$.Try(Task.scala:379)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1.apply(Task.scala:34)
+	at scalaz.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:59)
+	at scalaz.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:59)
+	at scalaz.concurrent.Future.step(Future.scala:111)
+	at scalaz.concurrent.Future.listen(Future.scala:76)
+	at scalaz.concurrent.Future$$anonfun$listen$1$$anonfun$apply$4.apply(Future.scala:80)
+	at scalaz.concurrent.Future$$anonfun$listen$1$$anonfun$apply$4.apply(Future.scala:80)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free.resume(Free.scala:73)
+	at scalaz.Free.go2$1(Free.scala:118)
+	at scalaz.Free.go(Free.scala:122)
+	at scalaz.Free.run(Free.scala:172)
+	at scalaz.concurrent.Future$$anonfun$async$1$$anonfun$apply$14.apply(Future.scala:363)
+	at scalaz.concurrent.Future$$anonfun$async$1$$anonfun$apply$14.apply(Future.scala:363)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply$mcV$sp(Queue.scala:194)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply(Queue.scala:194)
+	at scalaz.stream.async.mutable.Queue$$anonfun$scalaz$stream$async$mutable$Queue$$enqueueOne$1$1.apply(Queue.scala:194)
+	at scalaz.concurrent.StrategysLow$$anon$3$$anon$4.call(Strategy.scala:70)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[I 17:25:21.261 NotebookApp] Creating new notebook in 
+[I 17:25:21.969 NotebookApp] Kernel started: 810d95d0-222d-40ff-af86-ade359abeb71
+Warning: JAVA_HOME environment variable is not set.
+[I 17:25:47.160 NotebookApp] Kernel shutdown: 810d95d0-222d-40ff-af86-ade359abeb71
+[I 17:25:47.189 NotebookApp] Kernel started: 1373a0fd-6e9f-47ca-8dae-9468da4fb347
+[I 17:25:47.848 NotebookApp] Kernel shutdown: 1373a0fd-6e9f-47ca-8dae-9468da4fb347
+[I 17:25:47.861 NotebookApp] Kernel started: 0efcd8c4-8736-4a4a-9e7c-1f7fe67ab312
+Warning: JAVA_HOME environment variable is not set.
+[W 17:26:22.354 NotebookApp] Timeout waiting for kernel_info reply from 810d95d0-222d-40ff-af86-ade359abeb71
+[E 17:26:22.357 NotebookApp] Error opening stream: HTTP 404: Not Found (Kernel does not exist: 810d95d0-222d-40ff-af86-ade359abeb71)
+[W 17:26:22.382 NotebookApp] 404 GET /api/kernels/1373a0fd-6e9f-47ca-8dae-9468da4fb347/channels?session_id=271ce5e3444240f682d9e07c2cfaacad (127.0.0.1): Kernel does not exist: 1373a0fd-6e9f-47ca-8dae-9468da4fb347
+[W 17:26:22.398 NotebookApp] 404 GET /api/kernels/1373a0fd-6e9f-47ca-8dae-9468da4fb347/channels?session_id=271ce5e3444240f682d9e07c2cfaacad (127.0.0.1) 18.89ms referer=None
+[I 17:27:22.238 NotebookApp] Saving file at /Untitled.ipynb
+[W 17:27:22.420 NotebookApp] Timeout waiting for kernel_info reply from 0efcd8c4-8736-4a4a-9e7c-1f7fe67ab312
+[W 17:27:22.443 NotebookApp] Replacing stale connection: 0efcd8c4-8736-4a4a-9e7c-1f7fe67ab312:271ce5e3444240f682d9e07c2cfaacad
+[I 17:27:22.444 NotebookApp] Starting buffering for 0efcd8c4-8736-4a4a-9e7c-1f7fe67ab312:271ce5e3444240f682d9e07c2cfaacad
+[I 17:27:22.446 NotebookApp] Restoring connection for 0efcd8c4-8736-4a4a-9e7c-1f7fe67ab312:271ce5e3444240f682d9e07c2cfaacad
+Exception in thread "main" java.lang.NullPointerException
+	at ammonite.interpreter.Classes$.defaultClassPath(Classes.scala:105)
+	at ammonite.interpreter.Classes$.fromClasspath(Classes.scala:145)
+	at jupyter.scala.ScalaInterpreter$.classPathOrIvy(ScalaInterpreter.scala:86)
+	at jupyter.scala.ScalaInterpreter$.x$5$lzycompute(ScalaInterpreter.scala:100)
+	at jupyter.scala.ScalaInterpreter$.x$5(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.startJars$lzycompute(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.startJars(ScalaInterpreter.scala:99)
+	at jupyter.scala.ScalaInterpreter$.apply$default$1(ScalaInterpreter.scala:109)
+	at jupyter.scala.JupyterScala$$anon$1$$anonfun$apply$1$$anonfun$apply$2.apply(JupyterScala.scala:64)
+	at jupyter.scala.JupyterScala$$anon$1$$anonfun$apply$1$$anonfun$apply$2.apply(JupyterScala.scala:64)
+	at jupyter.scala.ScalaInterpreter$.underlying$lzycompute$1(ScalaInterpreter.scala:132)
+	at jupyter.scala.ScalaInterpreter$.jupyter$scala$ScalaInterpreter$$underlying$1(ScalaInterpreter.scala:127)
+	at jupyter.scala.ScalaInterpreter$$anon$1.executionCount(ScalaInterpreter.scala:163)
+	at jupyter.kernel.interpreter.InterpreterHandler$.execute(InterpreterHandler.scala:76)
+	at jupyter.kernel.interpreter.InterpreterHandler$.apply(InterpreterHandler.scala:231)
+	at jupyter.kernel.server.InterpreterServer$$anonfun$1.apply(InterpreterServer.scala:87)
+	at jupyter.kernel.server.InterpreterServer$$anonfun$1.apply(InterpreterServer.scala:82)
+	at scalaz.stream.Process$$anonfun$map$1.apply(Process.scala:47)
+	at scalaz.stream.Process$$anonfun$map$1.apply(Process.scala:47)
+	at scalaz.stream.Process$$anonfun$flatMap$1.apply(Process.scala:40)
+	at scalaz.stream.Process$$anonfun$flatMap$1.apply(Process.scala:40)
+	at scalaz.stream.Util$.Try(Util.scala:42)
+	at scalaz.stream.Process$class.flatMap(Process.scala:40)
+	at scalaz.stream.Process$Emit.flatMap(Process.scala:571)
+	at scalaz.stream.Process$$anonfun$flatMap$3.apply(Process.scala:41)
+	at scalaz.stream.Process$$anonfun$flatMap$3.apply(Process.scala:41)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free$$anonfun$flatMap$1$$anonfun$apply$1.apply(Free.scala:60)
+	at scalaz.Free$$anonfun$flatMap$1$$anonfun$apply$1.apply(Free.scala:60)
+	at scalaz.Free.resume(Free.scala:72)
+	at scalaz.Free.go2$1(Free.scala:118)
+	at scalaz.Free.go(Free.scala:122)
+	at scalaz.Free.run(Free.scala:172)
+	at scalaz.stream.Process$$anonfun$go$3$3$$anonfun$6.apply(Process.scala:473)
+	at scalaz.stream.Process$$anonfun$go$3$3$$anonfun$6.apply(Process.scala:473)
+	at scalaz.stream.Util$.Try(Util.scala:42)
+	at scalaz.stream.Process$$anonfun$go$3$3.apply(Process.scala:473)
+	at scalaz.stream.Process$$anonfun$go$3$3.apply(Process.scala:472)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1$$anonfun$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1$$anonfun$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$.Try(Task.scala:379)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1.apply(Task.scala:36)
+	at scalaz.concurrent.Task$$anonfun$flatMap$1.apply(Task.scala:34)
+	at scalaz.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:59)
+	at scalaz.concurrent.Future$$anonfun$flatMap$1.apply(Future.scala:59)
+	at scalaz.concurrent.Future.step(Future.scala:111)
+	at scalaz.concurrent.Future.listen(Future.scala:76)
+	at scalaz.concurrent.Future$$anonfun$listen$1$$anonfun$apply$4.apply(Future.scala:80)
+	at scalaz.concurrent.Future$$anonfun$listen$1$$anonfun$apply$4.apply(Future.scala:80)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free$$anonfun$map$1.apply(Free.scala:52)
+	at scalaz.Free.resume(Free.scala:73)
+	at scalaz.Free.go2$1(Free.scala:118)
+	at scalaz.Free.go(Free.scala:122)
+	at scalaz.Free.run(Free.scala:172)
+	at scalaz.concurrent.Future$$anonfun$apply$15$$anon$3.call(Future.scala:367)
+	at scalaz.concurrent.Future$$anonfun$apply$15$$anon$3.call(Future.scala:367)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+[I 18:01:32.086 NotebookApp] Saving file at /1_intro_to_scala.ipynb
+[I 18:23:22.826 NotebookApp] Saving file at /1_intro_to_scala.ipynb
+[I 18:23:26.636 NotebookApp] Starting buffering for a847990e-db62-4652-a1d8-4947d27a7342:3ffd04d5edd34a848f20e8f489036123
+[I 18:24:26.458 NotebookApp] Starting buffering for 0efcd8c4-8736-4a4a-9e7c-1f7fe67ab312:271ce5e3444240f682d9e07c2cfaacad
